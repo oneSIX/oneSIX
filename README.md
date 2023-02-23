@@ -2,7 +2,7 @@
 
 I'm an Android Developer with experience across a wide variety of domains (not always shown publicly on here). 
 
-I *LOVE* Kotlin and some of my favorite projects in the past few years have been working in the IOT space using libraries like [Kable](https://github.com/juullabs/kable) from the people at Juul Labs and the Nordic Semiconductor's [BLE library](https://github.com/NordicSemiconductor/Android-BLE-Library).
+I *LOVE* Kotlin and some of my favorite projects in the past few years have been working in the IOT space.
 
 🌱 I’m currently learning more about using Jetpack Compose and how to build applications that are architected to be maintainable.
 
